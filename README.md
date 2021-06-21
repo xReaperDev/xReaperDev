@@ -1,5 +1,7 @@
 
-                                                ![ReaperDev_Scythe_Small](https://user-images.githubusercontent.com/12704865/122773742-9738fb80-d276-11eb-8ba3-b9335dbe4eba.png)
+<p align="center">
+  <img width="460" height="300" src="![ReaperDev_Scythe_Small](https://user-images.githubusercontent.com/12704865/122773742-9738fb80-d276-11eb-8ba3-b9335dbe4eba.png)">
+</p>
 
 -👋 Hi, I am a Technical Artist who spends most of his days coding or 3D modeling something of personal interest usually in Unity or Blender.
 - 👀 I love the Toon/Science-Fantasy/Surrealism Genre.
