@@ -1,5 +1,5 @@
 
-https://github.com/xReaperDev/Reaper-Dev-Site/blob/master/Images/ReaperDev_Scythe_Small.png?raw=true
+![ReaperDev_Scythe_Small](https://user-images.githubusercontent.com/12704865/122773575-783a6980-d276-11eb-94e7-9cb8a55b6713.png)
 
 
 -👋 Hi, I am a Technical Artist who spends most of his days coding or 3D modeling something of personal interest usually in Unity or Blender.
